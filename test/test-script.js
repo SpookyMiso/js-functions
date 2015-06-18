@@ -1,4 +1,3 @@
-var window = window || undefined;
 
 if (window) {
   GLOBAL = window;
